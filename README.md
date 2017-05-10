@@ -19,6 +19,13 @@ The need for
     Port support
 are just a few I quickly can summarize by heart.
 
+# Realistic?
+Is is realistic some of these goals will be realized? Perhaps it is not. Perhaps none of them will be completed here.
+It depends on the number of developers helping and on the level of cooperation reached. Having a place on neutral ground 
+makes it possible to work together beyond what is possible using our own repositories and forks.
+The solutions that come up here may also be not like anything the official Red team envisions and will eventually create. 
+Whatever the result, there will certainly be valuable lessons to be learned. As there will be a lot of documentation on various computing subjects collected and made available, together with all the development done on the topics, I think it will be an experience that deepens the knowledge you may already have and that alone could be worth it.
+
 # Hostile Fork??
 Certainly not! Competing at most.
 The subjects listed above also are not competing directly with the plans of the official Red development team that develops the `real` thing.
